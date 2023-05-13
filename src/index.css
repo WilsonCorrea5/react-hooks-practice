@@ -1,11 +1,12 @@
-
 body {
   padding: 20px;
   background-color: skyblue;
 }
 
-
 button {
   margin-right: 10px;
+}
 
+a {
+  margin-right: 10px;
 }
